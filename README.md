@@ -61,7 +61,7 @@ src/
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/smart-todo-list  
+   git clone https://github.com/laxman939/Smart-Todo-List-App  
    cd smart-todo-list
 
 2. Install dependencies:
