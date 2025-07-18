@@ -2,7 +2,7 @@
 
 A sleek, modern Smart Todo List app built with React and Tailwind CSS. This task manager provides a clean UI, real-time updates, automatic deadline bucketing, and a polished UX — all powered by a custom frontend architecture using the React Context API.
 
-Live Demo: https://smart-todo-list-appp.netlify.app/
+Live Demo: https://smart-todo-list-app-lyart.vercel.app/
 
 ---
 
